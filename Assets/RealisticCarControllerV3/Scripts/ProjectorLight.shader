@@ -2,6 +2,7 @@
 
 // Upgrade NOTE: replaced '_Projector' with 'unity_Projector'
 // Upgrade NOTE: replaced '_ProjectorClip' with 'unity_ProjectorClip'
+//
 
 Shader "Projector/Light" {
 	Properties {
